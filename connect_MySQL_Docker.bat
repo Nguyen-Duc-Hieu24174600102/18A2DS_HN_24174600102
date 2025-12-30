@@ -1,0 +1,1 @@
+docker run --name mysql-demo-server -e MYSQL_ROOT_PASSWORD=uneti -e MYSQL_DATABASE=data_science_db -p 3307:3306 -d mysql:latest

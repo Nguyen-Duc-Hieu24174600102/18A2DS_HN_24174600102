@@ -1,0 +1,11 @@
+hotel_id,hotel_name,city,room_type,base_price
+HOT100,Khach San B,Ha Noi,Suite,1200000.0
+HOT101,Resort D,Hà Nội,Deluxe,700.0
+HOT102,Resort D,Đà Nẵng,Standard,757342.8571428572
+HOT103,Khach San B,Tp.Hcm,Deluxe,1200000.0
+HOT104,Resort D,Ha Noi,Deluxe,700.0
+HOT105,Hotel C,Da Nang,Deluxe,900000.0
+HOT106,Khach San B,Hà Nội,Standard,757342.8571428572
+HOT107,Homestay E,Tp. Hcm,Suite,800000.0
+HOT108,Resort D,Tp. Hcm,Suite,757342.8571428572
+HOT109,Homestay E,Da Nang,Deluxe,1200000.0
